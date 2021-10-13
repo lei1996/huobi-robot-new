@@ -1,0 +1,12 @@
+{
+  "name": "@data-analysis/operators",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@data-analysis/types": "^1.0.0",
+    "@data-analysis/utils": "^1.0.0",
+    "big.js": "^6.1.1",
+    "trading-signals": "^2.0.0"
+  }
+}

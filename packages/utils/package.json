@@ -1,0 +1,11 @@
+{
+  "name": "@data-analysis/utils",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@data-analysis/config": "^1.0.0",
+    "huobi-api-js": "^1.0.0",
+    "moment": "^2.29.1"
+  }
+}
